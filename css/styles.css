@@ -1,0 +1,57 @@
+/* CSS Document */
+/* Hannah O'Shea, 9/19/2024 */
+/* File Name: styles.css */
+
+
+/* CSS Reset */
+
+head, title, body, nav, ul, li, main, footer {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Fonts wanted to be used */ 
+
+/* TBD */
+
+
+/* Save off until you can actually SEE it, or figure out what's wrong; do what is physically accomplishable first */
+
+
+/****************************/
+
+/* Navigation Rules */
+
+nav {
+    width: 65%;
+    margin: 5em 3em 0 0;
+    font-weight:bold;
+
+}
+
+nav li {
+    display:inline-block;
+    font-size: 2em;
+}
+
+nav li a {
+    display:inline-block;
+    text-decoration:none;
+    padding: 0.2em 0.5em;
+}
+
+p{ 
+    border-radius: 12px 16px 12px 16px;
+}
+
+
+
+
+/* Footer Rules */
+
+footer {
+    font-size: 0.75em; 
+    text-align: center;
+}
+
